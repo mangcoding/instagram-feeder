@@ -1,4 +1,4 @@
-###[DEMO](https://mangcoding.github.io/instagram-feeder/)
+### [LIVE DEMO](https://mangcoding.github.io/instagram-feeder/)
 
 
 ### instagram-feed carousal with Handlebar, Flickity & jquery.instagramFeed
