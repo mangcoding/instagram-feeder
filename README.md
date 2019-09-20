@@ -1,3 +1,6 @@
+###[DEMO](https://mangcoding.github.io/instagram-feeder/)
+
+
 ### instagram-feed carousal with Handlebar, Flickity & jquery.instagramFeed
 Instagram Feeder Snippet html and Liquid version for shopify
 
